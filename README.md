@@ -6,46 +6,10 @@
 
 <p align="left">
 
-  <a href="https://www.docker.com/" target="_blank">
+  <a href="https://www.arduino.cc/en/software" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg"
+      src="http://www.w3.org/2000/svg"
       alt="docker"
-      width="40"
-      height="40"
-    />
-  </a>
-  
-  <a href="https://www.eclipse.org/downloads/" target="_blank">
-    <img
-      src="https://www.eclipse.org/downloads/assets/public/images/logo-eclipse.png"
-      alt="jenkins"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="https://www.postgresql.org" target="_blank">
-    <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg"
-      alt="postgresql"
-      width="40"
-      height="40"
-    />
-  </a>
-  
-   <a href="https://spring.io/projects/spring-boot" target="_blank">
-    <img
-      src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg"
-      alt="aws"
-      width="120"
-      height="40"
-    />
-  </a>
-  
-   <a href="https://spring.io/projects/spring-boot" target="_blank">
-    <img
-      src="https://upload.wikimedia.org/wikipedia/pt/3/30/Java_programming_language_logo.svg"
-      alt="aws"
       width="40"
       height="40"
     />
@@ -60,12 +24,15 @@
    * Resistors 1k +/- 1%
    * Bluetooth 4.0
 
+
+## Libraries:
+
 ## Load Cell Half Bridge 50KG
 
 ![](loadcell.jpeg)
 
-Ele é um transdutor resistivo capaz de converter a força aplicada em um sinal elétrico, um trabalho realizado pela ponte de Wheatstone agregado a outros restores que verifica a deformação do metal ao qual está fixada.
-Existem diversos modelos disponíveis no momento em circulação no mercado, cada qual com suas especificações e finalidades, para este projeto foi utilizado um modelo de célula de carga de 50kg.
+It is a resistive transducer capable of converting the applied force into an electrical signal, a work performed by the Wheatstone bridge added to other resistors that verify the deformation of the metal to which it is corrected.
+There are several models available on market, each with its specifications and purposes, for this project a 50 kg load cell model was used.
 
 ## Wiring 4 load cells
 
