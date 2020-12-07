@@ -64,6 +64,11 @@
 
 ![](loadcell.jpeg)
 
+Ele é um transdutor resistivo capaz de converter a força aplicada em um sinal elétrico, um trabalho realizado pela ponte de Wheatstone agregado a outros restores que verifica a deformação do metal ao qual está fixada.
+Existem diversos modelos disponíveis no momento em circulação no mercado, cada qual com suas especificações e finalidades, para este projeto foi utilizado um modelo de célula de carga de 50kg.
+
+## Wiring 4 load cells
+
 
 ## Meta
 
