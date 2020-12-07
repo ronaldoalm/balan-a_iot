@@ -8,7 +8,7 @@
 
   <a href="https://www.arduino.cc/en/software" target="_blank">
     <img
-      src="http://www.w3.org/2000/svg"
+      src="https://cdn.arduino.cc/header-footer/prod/assets/headerLogo-arduino.svg"
       alt="docker"
       width="40"
       height="40"
