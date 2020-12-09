@@ -8,8 +8,8 @@
 
   <a href="https://www.arduino.cc/en/software" target="_blank">
     <img
-      src="https://cdn.arduino.cc/header-footer/prod/assets/headerLogo-arduino.svg"
-      alt="docker"
+      src="arduino_icon.png"
+      alt="Arduino"
       width="40"
       height="40"
     />
